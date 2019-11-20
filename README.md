@@ -1,10 +1,19 @@
-# Utils
+# Some Usefull Scala Utilities
 
-Scala utilities
+|     CI    |   Build  |
+|:------------:|--------|
+|GitHub|![](https://github.com/thewilly/utils/workflows/Ubuntu%20Latest%20JDK%201.8/badge.svg)|
+|GitHub|![](https://github.com/thewilly/utils/workflows/Ubuntu%20Latest%20JDK%2011/badge.svg)|
+|GitHub|![](https://github.com/thewilly/utils/workflows/Ubuntu%20Latest%20JDK%2012/badge.svg)|
+|GitHub|![](https://github.com/thewilly/utils/workflows/Ubuntu%20Latest%20JDK%2013/badge.svg)|
+|Travis|[![Build Status](https://travis-ci.org/weso/utils.svg?branch=master)](https://travis-ci.org/weso/utils)|
 
-[![Build Status](https://travis-ci.org/weso/utils.svg?branch=master)](https://travis-ci.org/weso/utils)
-[![codecov](https://codecov.io/gh/weso/utils/branch/master/graph/badge.svg)](https://codecov.io/gh/weso/utils)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/92aef2157e844f48bca96e44b38bb0a7)](https://www.codacy.com/gh/weso/utils?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=weso/utils&amp;utm_campaign=Badge_Grade)
+**Code quality**
+
+|     Reviewer    |   Status  |
+|:------------:|--------|
+|Codecov|[![codecov](https://codecov.io/gh/weso/utils/branch/master/graph/badge.svg)](https://codecov.io/gh/weso/utils)|
+|Codacy|[![Codacy Badge](https://api.codacy.com/project/badge/Grade/92aef2157e844f48bca96e44b38bb0a7)](https://www.codacy.com/gh/weso/utils?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=weso/utils&amp;utm_campaign=Badge_Grade)|
 
 ## Introduction
 
