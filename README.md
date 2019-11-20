@@ -1,4 +1,4 @@
-# Some Usefull Scala Utilities
+# Some Useful Scala Utilities
 
 |     CI    |   Build  |
 |:------------:|--------|
