@@ -1,4 +1,4 @@
-name: Ubuntu Latest JDK-11
+name: Ubuntu Latest JDK 11
 
 on: [push]
 
