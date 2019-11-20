@@ -1,4 +1,4 @@
-name: Scala CI
+name: Ubuntu Latest JDK-11
 
 on: [push]
 
